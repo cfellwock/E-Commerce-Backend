@@ -7,7 +7,7 @@ Backend MySQL database application for an e-commerce website.
 mysql -u root -p
 
 ## Usage
-It doesn't work. If it did, it would allow successful creation, updating and deletion of database information after signing in with MySQL.
+
 
 ## Credits
 W3Schools
