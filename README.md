@@ -5,6 +5,11 @@ Backend MySQL database application for an e-commerce website.
 
 ## Installation 
 mysql -u root -p
+enter SQL password 
+source db/schema.sql
+quit SQL
+npm run seed
+npm start
 
 ## Usage
 
